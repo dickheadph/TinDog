@@ -184,6 +184,11 @@ h6 {
   font-size: 1rem;
   line-height: 1.5;
 }
+	.title-image {
+  width: 60;
+  position: absolute;
+  z-index: 0;
+}
 
 }
 @media (max-width: 1028px) {
