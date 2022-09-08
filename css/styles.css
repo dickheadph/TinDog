@@ -180,6 +180,11 @@ h6 {
 		font-weight: bolder;
 		line-height: 1.5;
 	  }
+	.testimonial-text {
+  font-size: 2rem;
+  line-height: 1.5;
+}
+
 }
 @media (max-width: 1028px) {
 
