@@ -176,12 +176,12 @@ h6 {
 @media (max-width: 640px){
 	.big-heading {
 		font-family: Montserrat, sans-serif;
-		font-size: 3rem;
+		font-size: 2rem;
 		font-weight: bolder;
 		line-height: 1.5;
 	  }
 	.testimonial-text {
-  font-size: 2rem;
+  font-size: 1rem;
   line-height: 1.5;
 }
 
